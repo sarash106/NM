@@ -1,0 +1,68 @@
+Project Understanding and Approach Document
+Analysing COVID-19 Cases and Deaths Data in the EU/EEA using IBM Cognos
+
+Table of Contents
+1. Introduction
+2. Project Objectives
+3. Data Collection
+4. Data Preparation
+5. Analysis Approach
+6. Data Visualization Design
+7. Insights Derivation
+8. Conclusion
+
+
+
+ 1. Introduction
+The objective of this project is to analyse COVID-19 cases and deaths data in the European Union and European Economic Area (EU/EEA) using IBM Cognos. The primary focus is on comparing and contrasting the mean values and standard deviations of cases and associated deaths per day and by country. This document outlines our understanding of the problem statement and how we will proceed with solving it.
+
+2. Project Objectives
+The project's main objectives are as follows:
+- Compare and contrast the mean values of daily COVID-19 cases and deaths within the EU/EEA.
+- Analyse the standard deviations of daily COVID-19 cases and deaths within the EU/EEA.
+- Examine variations in cases and deaths by country within the EU/EEA.
+
+ 3. Data Collection
+To achieve these objectives, we will collect COVID-19 data from reliable sources such as the World Health Organization (WHO) or the European Centre for Disease Prevention and Control (ECDC). The data should include daily records of COVID-19 cases and deaths for each country within the EU/EEA.
+
+ 4. Data Preparation
+Before performing the analysis, we will need to prepare the data by:
+- Cleaning the data to remove any inconsistencies or missing values.
+- Aggregating the data to calculate daily mean and standard deviation values.
+- Grouping the data by country for country-level analysis.
+
+ 5. Analysis Approach
+Our analysis will consist of the following steps:
+
+   a. Calculate Mean and Standard Deviation
+- Calculate the mean (average) and standard deviation of daily COVID-19 cases and deaths for the entire EU/EEA region.
+- Calculate the mean and standard deviation for each individual country within the EU/EEA.
+
+    b. Comparison and Contrast
+- Compare the means of cases and deaths for the EU/EEA as a whole.
+- Contrast the standard deviations of cases and deaths for the EU/EEA as a whole.
+- Compare the means and standard deviations across different countries within the EU/EEA.
+
+ 6. Data Visualization Design
+To present the findings effectively, we will design visualizations in IBM Cognos. These visualizations may include:
+- Line charts to display trends in daily cases and deaths over time for the EU/EEA.
+- Bar charts to compare mean values between countries or regions.
+- Box plots to visualize the spread of data and identify outliers.
+- Maps to geographically represent case and death data by country.
+
+  7. Insights Derivation
+     Based on the analysis and visualizations, we will derive insights such as:
+- Identifying countries with higher or lower mean cases and deaths.
+- Detecting regions with more significant variations (higher standard deviations) in cases and deaths.
+- Understanding how the COVID-19 situation has evolved over time in the EU/EEA.
+
+8. Conclusion
+In conclusion, this project aims to analyse COVID-19 cases and deaths data in the EU/EEA using IBM Cognos. By comparing mean values and standard deviations, we can gain valuable insights into the pandemic's impact on this region. Our approach involves data collection, preparation, analysis, visualization, and insights derivation. This document serves as a roadmap for conducting the analysis and presenting the results effectively.
+
+TEAM MEMBERS:
+AJAY RAJ AGARWAL S(2021115009)
+M.AHAMED IJAZ MOHAMED THAHEER (2021115008)
+AATHITYAN MARIRAJ (2021115002)
+M. ANISH (2021115328)
+ARAVINDHAN S (2021115327)
+
